@@ -1,0 +1,69 @@
+color: cambiar color letra
+
+font-size: cambiar tamaño de letras
+
+background-color: cambiar fondo
+
+text-transform: uppercase; para transformar a mayusculas
+
+background: url(ruta):  para agregar una imagen
+
+../ para volver a una carpeta anterior en la ruta
+
+/ para ir a una carpeta en ruta
+
+heigh: tamaño
+
+vh: viewport (altura de la pantalla)
+
+min-heigh: tamaño minimo
+
+background.position: center para centrar ya sea texto o imagenes
+
+background.position: center center (muestrame la imagen desde el centro)
+
+max-width: tamaño maximo de la pantalla
+
+margin-left: y margin-right:  espaciado de los costados de la pantalla      margin-left: auto; espaciado automatico
+
+margin: 0 auto espaciado arriba y abajo
+
+
+display: flex; para alinear al lado derecho
+
+
+padding: elimina el espacio o ajusta el espacio
+
+font-family para cambiar fuente del texto
+
+
+http://fonts.google.com=enlace para fuentes gratuitas
+
+https://necolas.github.io/normalize.css/ para descargar normalize (estilo externo)
+
+(tips: siempre coloca el stilo.css principal al ultimo para q reescriba al anterior)
+
+
+
+
+ <link rel="stylesheet" href="css/estilo.css">  para conectarlo con la pag html
+
+
+<div class=>: para enlazarlo a una parte de la pag
+			o
+		<header id=" ejemplo">
+
+
+cuando es class se usa .ejemplo{}   (darle estilo a una clase)
+
+cuando es id se usa #ejemplo{}	(darle estilo a un id)
+
+
+
+header mayuscula:   cuando son 2 id en una mismo parrafo 
+
+header mayuscula:   cuando son 2 clases en un mismo parrafo
+
+
+.ejemplo.inicio{}: cuando se le quiere dar estilo a 2 clases
+
